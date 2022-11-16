@@ -23,6 +23,6 @@ alhskdjhasj
 11223344
 1234
 
-сегодня работаем с гитхабом
+github today is very good hub
 
-add my changes
+new changes is here
